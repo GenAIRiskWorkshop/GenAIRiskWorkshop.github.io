@@ -5,42 +5,19 @@
     <link>https://genairiskworkshop.github.io/</link>
       <atom:link href="https://genairiskworkshop.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop on GenAI Risk</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://genairiskworkshop.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://genairiskworkshop.github.io/media/icon_hu_717fdc65c8574440.png</url>
       <title>Workshop on GenAI Risk</title>
       <link>https://genairiskworkshop.github.io/</link>
     </image>
     
     <item>
-      <title>Artificial Intelligence and Plain Language</title>
-      <link>https://genairiskworkshop.github.io/talks/dacunha/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://genairiskworkshop.github.io/talks/dacunha/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Natural Language Processing (NLP), a branch of artificial intelligence, has evolved significantly over recent decades. Broadly speaking, three main paradigms have been employed: rule-based systems, machine learning, and, more recently, language models. Simultaneously, the international &amp;quot;plain language&amp;quot; movement emerged, advocating for specialized texts addressed to the general public to be written in a simpler, more accessible manner. Over the past decade, a synergy has developed between these two fields—NLP and plain language— which has led to the creation of technological tools aimed at producing clearer texts. These tools follow the aforementioned NLP paradigms and can be classified, according to their function, into clarity testers, writing assistants, and clear text generators.&lt;/p&gt;
-&lt;p&gt;This presentation will offer an overview of the available tools, outlining their functionalities as well as the advantages and disadvantages of each NLP paradigm. Particular attention will be given to tools developed for the Spanish language, with a specific focus on the &lt;a href=&#34;https://sistema-artext.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arText system&lt;/a&gt;, the first writing assistant for Spanish designed to help public administration staff draft texts in plain language addressed to citizens. This system has been developed with funding obtained through various competitive grants, in collaboration with different Spanish governments, and is available online free of charge.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
-&lt;a href=&#34;https://iriadacunha.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iria da Cunha&lt;/a&gt; is a lecturer at the National Distance Education University (Spain). She holds a PhD in Applied Linguistics from the Universitat Pompeu Fabra. Her research lines are Plain Language, Natural Language Processing, Terminology, and Specialized Discourse. She is the director of the arText team.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Easy-to-understand Writing with AI Assistance</title>
-      <link>https://genairiskworkshop.github.io/talks/frohlich/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://genairiskworkshop.github.io/talks/frohlich/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
-Easy-to-understand language is not only needed by people with learning difficulties and disabilities. International studies show that many more people have difficulties understanding serious information from public authorities or companies.
-In this presentation we will introduce rules and criteria for easy-to-understand language and show some good examples from companies and public authorities.
-Since most people who are responsible for writing and providing information do not know how to write easy-to-understand texts, AI-based writing assistance can be very useful.
-In the talk, we will show how we can analyze and simplify complicated information very easily with an AI-based writing assistance.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
-&lt;a href=&#34;https://www.capito.eu/en/walburga-froehlich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walburga Fröhlich&lt;/a&gt; is Co-Founder and CEO of &lt;a href=&#34;https://www.capito.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;capito&lt;/a&gt;. For 30 years, she has been concerned with the question of how the potential of disabled people can be made visible and developed in our society and what accessible communication does for our society. Together with her team, she has developed AI-based digital tools for easier comprehensible information.
-Walburga was born in 1966 in Austria, she studied first social work and has in addition a Masters degree in Social Management. She has already received many awards for her work, including the European Woman Innovator Prize or the European Innovation Council “Seal for Excellence”.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;capito&lt;/strong&gt; is the leading provider of information in easy-to-understand language. Both analog and digital thanks to artificial intelligence. For over 24 years, experts at capito have been simplifying texts into easily understandable language levels. All simplifications are carried out based on the capito criteria catalog.&lt;/p&gt;
-&lt;p&gt;With capito.ai, this long-standing expertise has been successfully digitalized. capito.ai is a tool that uses artificial intelligence to simplify texts. It analyses the comprehensibility of texts, makes suggestions for simplification, and simplifies texts fully automatically in 3 language levels.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://genairiskworkshop.github.io/accepted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genairiskworkshop.github.io/accepted/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -53,17 +30,9 @@ Walburga was born in 1966 in Austria, she studied first social work and has in a
     
     <item>
       <title></title>
-      <link>https://genairiskworkshop.github.io/camera-ready/</link>
+      <link>https://genairiskworkshop.github.io/agenda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genairiskworkshop.github.io/camera-ready/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://genairiskworkshop.github.io/cfp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genairiskworkshop.github.io/cfp/</guid>
+      <guid>https://genairiskworkshop.github.io/agenda/</guid>
       <description></description>
     </item>
     
@@ -77,9 +46,17 @@ Walburga was born in 1966 in Austria, she studied first social work and has in a
     
     <item>
       <title></title>
-      <link>https://genairiskworkshop.github.io/resources/</link>
+      <link>https://genairiskworkshop.github.io/statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genairiskworkshop.github.io/resources/</guid>
+      <guid>https://genairiskworkshop.github.io/statement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://genairiskworkshop.github.io/white/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genairiskworkshop.github.io/white/</guid>
       <description></description>
     </item>
     

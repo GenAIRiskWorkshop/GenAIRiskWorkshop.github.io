@@ -2,35 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genairiskworkshop.github.io/talks/dacunha/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://genairiskworkshop.github.io/talks/frohlich/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://genairiskworkshop.github.io/talks/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://genairiskworkshop.github.io/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    <loc>https://genairiskworkshop.github.io/accepted/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://genairiskworkshop.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://genairiskworkshop.github.io/camera-ready/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://genairiskworkshop.github.io/cfp/</loc>
+    <loc>https://genairiskworkshop.github.io/agenda/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://genairiskworkshop.github.io/program/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://genairiskworkshop.github.io/resources/</loc>
+    <loc>https://genairiskworkshop.github.io/statement/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://genairiskworkshop.github.io/white/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://genairiskworkshop.github.io/categories/</loc>
@@ -40,6 +27,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://genairiskworkshop.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://genairiskworkshop.github.io/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
